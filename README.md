@@ -1,3 +1,1 @@
-# camjw.github.io
-
-## Hello World
+## Hello
