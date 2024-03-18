@@ -1,3 +1,3 @@
 layout: page
-title: "Contact"
-permalink: /URL-PATH
+title: "contact"
+permalink: /contact
